@@ -1,9 +1,9 @@
 ## Hello Humans, i am M23!
 
-- i Like Coding
+- I like coding
 - Cosplaying as an sysadmin
-- Developing Solutions to my problems!
-- Music Lover
+- Developing solutions to my problems!
+- Music lover
 - German
 
 # 💻 Tech Stack:
